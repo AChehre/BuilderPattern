@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestBuilderPattern.Pizza">
+    <Position X="1" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Interface Name="TestBuilderPattern.Pizza.IBuilder">
+        <TypeIdentifier>
+          <NewMemberFileName>Pizza.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+      <Class Name="TestBuilderPattern.Pizza.Builder">
+        <TypeIdentifier>
+          <NewMemberFileName>Pizza.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEAAAAAAAAAAAAAAAgAAAAAAICAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
