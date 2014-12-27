@@ -31,7 +31,7 @@ namespace TestBuilderPattern
                 get { return _size; }
             }
 
-            private Boolean _cheese = false;
+            private Boolean _cheese;
             Boolean IBuilder.Cheese
             {
                 get { return _cheese; }
@@ -39,14 +39,14 @@ namespace TestBuilderPattern
             }
 
 
-            private Boolean _pepperoni = false;
+            private Boolean _pepperoni;
             Boolean IBuilder.Pepperoni
             {
                 get { return _pepperoni; }
                 set { _pepperoni = value; }
             }
 
-            private Boolean _bacon = false;
+            private Boolean _bacon;
             Boolean IBuilder.Bacon
             {
                 get { return _bacon; }
