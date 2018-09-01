@@ -1,6 +1,0 @@
-G:\01Che\TestProjects\TestBuilderPattern\TestBuilderPattern\bin\Debug\TestBuilderPattern.exe.config
-G:\01Che\TestProjects\TestBuilderPattern\TestBuilderPattern\obj\Debug\TestBuilderPattern.csprojResolveAssemblyReference.cache
-G:\01Che\TestProjects\TestBuilderPattern\TestBuilderPattern\bin\Debug\TestBuilderPattern.exe
-G:\01Che\TestProjects\TestBuilderPattern\TestBuilderPattern\bin\Debug\TestBuilderPattern.pdb
-G:\01Che\TestProjects\TestBuilderPattern\TestBuilderPattern\obj\Debug\TestBuilderPattern.exe
-G:\01Che\TestProjects\TestBuilderPattern\TestBuilderPattern\obj\Debug\TestBuilderPattern.pdb
