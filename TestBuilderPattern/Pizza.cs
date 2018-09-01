@@ -22,7 +22,7 @@
             return classinfo;
         }
 
-        public static Builder Create(int size)
+        public static Builder NewPizza(int size)
         {
             return new Builder(size);
         }
